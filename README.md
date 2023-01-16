@@ -10,9 +10,9 @@
 
 <ins>В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте<ins>
 
-    ![img](img/img01.png)
-    ![img](img/img02.png)
-    ![img](img/img03.png)
+    ![img](img/img11.png)
+    ![img](img/img12.png)
+    ![img](img/img13.png)
     
 ---
 ### Задание 2
