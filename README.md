@@ -10,7 +10,7 @@
 
 <ins>В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте<ins>
 
-    ![img](https://github.com/Andre-Kalbazov/8-03-hw/blob/246df5490032a22d7da35df163527102a3f617e6/img/img11.png)
+    ![alt text](https://github.com/Andre-Kalbazov/8-03-hw/blob/246df5490032a22d7da35df163527102a3f617e6/img/img11.png)
     ![img](img/img12.png)
     ![img](img/img13.png)
     
